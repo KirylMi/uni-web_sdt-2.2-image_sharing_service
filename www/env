@@ -1,0 +1,16 @@
+DB_HOST     =   "hostName"
+DB_PORT     =   "5432"
+DB_USER     =   "postgres"
+DB_NAME     =   "insta"
+DB_PASSWORD =   "test"
+
+MAIL_USER   =   "#ExampleUserMailer"
+MAIL_EMAIL  =   "#ExampleUserMailer@gmail.com"
+MAIL_PASS   =   "#examplepass"
+MAIL_FROM   =   "KIRA" #zagalovok v emaile c aktivaciey
+MAIL_SSL    =   "ssl://smtp.gmail.com"  #any ssl will work
+MAIL_PORT   =   "465"
+
+S3_BUCKET   =   "#Example-bucket-name"
+S3_KEY      =   "#EXAMPLE214EXAMPLEEXAMPLE"
+S3_SECRET_K =   "#EXAMPLEEXAMPLEEXAM1255PLEEXAMPLEE@??!#(J@PLEEXAMPLE"

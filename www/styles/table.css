@@ -1,0 +1,11 @@
+/*  Table style */
+.MainTable td {
+    height:50px;
+    width:120px;
+    text-align: center;
+}
+ .MainTable input{   /*for the future */
+    width:100%;
+    height:100%;
+    font-size:15px;
+}

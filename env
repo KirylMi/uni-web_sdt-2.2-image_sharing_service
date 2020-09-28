@@ -1,0 +1,7 @@
+#Change it to your values, but you can leave this ones as they are (Except email, idk why i made it unavaiable, but it seems like a good idea)
+DB_PASSWORD=test
+DB_NAME=insta
+DB_USER=postgres
+
+PGADMIN_DEFAULT_EMAIL=###YOUR_EMAIL
+PGADMIN_DEFAULT_PASSWORD=test

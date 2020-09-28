@@ -1,0 +1,15 @@
+p{
+    font-size:15px;
+}
+table{
+    width:100%;
+}
+td{
+    font-size:20px;
+    width:40px;
+}
+.Value{
+    text-align:right;
+    width:50px;
+    font-size:20px;
+}
